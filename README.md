@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kritar00
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me FB: https://www.facebook.com/Kritar.00/ , email: nttp.220401@gmail.com
